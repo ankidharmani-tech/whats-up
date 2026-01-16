@@ -24,6 +24,9 @@ JavaScript
 
 GitHub Pages
 
-👩‍💻 Author
+👩‍💻 Authors
+
 Devesh Hegde
+
 Ankita Dharmani 
+
