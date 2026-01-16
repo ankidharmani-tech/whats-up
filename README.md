@@ -1,4 +1,4 @@
-⚡ Wattogether
+# ⚡ Wattogether
 
 A frontend web project that visualizes a peer-to-peer renewable energy trading platform, where users can understand how surplus solar energy can be shared within communities.
 
